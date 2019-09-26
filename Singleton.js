@@ -9,7 +9,7 @@ class Counter {
 	}
 
 	getCounter() {
-		return this.count;
+	   	return this.count;
 	}
 
 	plusOne() {
